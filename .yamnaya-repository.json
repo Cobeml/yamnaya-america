@@ -1,0 +1,19 @@
+{
+  "campId": "camp-cultural-america",
+  "publicationId": "publication-2-1",
+  "version": 1,
+  "files": {
+    "index.qmd": "2b9312cb096372a3dd859c1e772864044ed672dd59ab94bbb3742e3d9c2103cf",
+    "styles.css": "b4817e4565dd354981eb3f873b6b2320d63ba6d3bc8e4c81e0404d75cd77a854",
+    "_quarto.yml": "4128b959fc6c9bbd29d5e76cfff611551ff03c0244cce3139a87afa074e2469f",
+    "library.qmd": "3637149abdc8fdb457f3231465a1898ff1c5ef4fbef313c5bb4b2832cd412ab2",
+    "references.bib": "4cd0fb03fa5944db2f83ac6dfb2604d65ba1382fbfa270baadf2a99ff0a5b7ac",
+    "corrections.qmd": "57458e987aade48b36a8ed01d574533e24905f9edd85785de84fc4ac047d0738",
+    "experiments.qmd": "f1d7fd43156a7a685495b80dbecb0f87f29166ecd2bb38dde7a43b3f8584d870",
+    "essays/index.qmd": "adee21d973fff59350d2a500346359ab128ca582d9e94729ea49300493d36804",
+    "reports/index.qmd": "79c503a689155dd3928e3b1ecc6154eaa9f93b490a42816a8f235fe49ccae64e",
+    "README.md": "412cac0f4c13f5064883131275a7578ebeb734a97aa97ccc703f1a7e2b95b046",
+    ".gitignore": "acdaac6126465717de668c40d610a58eb96bfc28f47dd1c15b8d6fe13f0d09e3",
+    ".github/workflows/yamnaya-pages.yml": "238a8bd286a54dccaedd91873fbf3c1c6c66b1124d2d29bfeb73ccedb65dde6b"
+  }
+}

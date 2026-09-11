@@ -1,0 +1,15 @@
+---
+title: American Cultural Mimetics
+---
+
+Study cultural transmission in America: specific Indigenous nations, Scots-Irish traditions, religious movements, frontier narratives and contemporary subcultures. Compare specific texts, institutions and periods; preserve differences within and between communities.
+
+## The workshop
+
+Theory and experimental art investigating how cultural forms persist, combine, and change.
+
+Our work distinguishes retained source evidence, interpretation, and original creative propositions.
+
+- [Annotated library](library.qmd)
+- [Experiments](experiments.qmd)
+- [Corrections](corrections.qmd)
