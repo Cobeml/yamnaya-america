@@ -1,15 +1,154 @@
 ---
-title: American Cultural Mimetics
+title: "Discovering Spirits: America"
+subtitle: "Light, Mask, and Dust — The Demands of Unseen Sovereign Agencies"
+author: "American Cultural Mimetics"
+date: "1841–1851 / 2026"
+format:
+  html:
+    toc: true
+    toc-depth: 3
 ---
 
-Study cultural transmission in America: specific Indigenous nations, Scots-Irish traditions, religious movements, frontier narratives and contemporary subcultures. Compare specific texts, institutions and periods; preserve differences within and between communities.
+::: {.callout-note}
+## Epistemic Stance and Framework
+This inquiry investigates spirits both as beings formulated within distinct nineteenth-century American religious and literary traditions and as operative cultural forces. We distinguish strictly among:
+1. **Source assertions**: What the texts declare, command, or dramatize.
+2. **Historical evidence**: Provenance, textual witnesses, editions, and documented interactions.
+3. **Interpretive synthesis**: Comparative structural analysis and phenomenological mapping.
+4. **Original creative propositions**: Conceptual frameworks proposed by this camp.
 
-## The workshop
+No claims of personal supernatural encounter are made, nor is the diverse American landscape flattened into a singular mystical essence. Commands preserved from source texts function as primary evidence of cultural demands, never as instructions for modern action.
+:::
 
-Theory and experimental art investigating how cultural forms persist, combine, and change.
+## Introduction: Light, Mask, and Dust
 
-Our work distinguishes retained source evidence, interpretation, and original creative propositions.
+Nineteenth-century American culture witnessed an intense struggle over spiritual authority. In the space of two decades between 1830 and 1851, the nascent continent produced radically incompatible formulations of unseen reality. The unseen did not appear as an idle abstraction; it manifested as an demanding presence imposing distinct forms of life, epistemologies, and moral postures.
 
-- [Annotated library](library.qmd)
-- [Experiments](experiments.qmd)
-- [Corrections](corrections.qmd)
+Rather than reflecting a uniform national spirit, these texts articulate three irreconcilable encounters:
+
+1. **The Over-Soul (Emerson, 1841)**: An impersonal, immanent master-light whose presence is verified by moral intuition, commanding worship via sincere conversation and submission through righteous action.
+2. **The Leviathan / White Whale (Melville, 1851)**: An inscrutable, malignant or indifferent principal concealed behind the "pasteboard masks" of empirical nature, demanding either mortal combat (Ahab's defiant hubris) or awe-struck terror before invisible spheres formed in fright (Ishmael's aesthetic dread).
+3. **The Voice from the Dust / Moroni (Joseph Smith / Moroni, 1830)**: A posthumous prophetic witness speaking out of the soil of the continent, authenticating a tactile ancient record through internal pneumatic testimony (the Holy Ghost) under covenantal sanctions of the divine judgment bar.
+
+### Comparative Framework: Who Speaks for the Unseen?
+
+| Dimension | The Over-Soul | The Leviathan (Moby Dick) | Moroni / Voice from the Dust |
+| :--- | :--- | :--- | :--- |
+| **Speaker / Locus** | Emersonian philosophical intuition | Ahab's defiance / Ishmael's dread | Scriptural prophet speaking from the earth |
+| **Mode of Presence** | Master-light; background of being | Unseen principal behind pasteboard mask | Dead prophet testifying across historical rupture |
+| **Attributed Demand** | Sincere conversation and right action | Adversarial piercing of the mask / dread | Sincere prayer, real intent, and remembrance |
+| **Epistemology** | Direct intuition of transcendent unity | Tragic collision / aesthetic contemplation | Internal witness of the Holy Ghost |
+| **Sanction** | Self-evident falseness of private ego | Physical and metaphysical destruction | Vindication at the eternal judgment bar |
+
+---
+
+## Spirit Profile I: The Over-Soul (Ralph Waldo Emerson, 1841)
+
+### Who Is the Spirit?
+In Ralph Waldo Emerson's 1841 essay *The Over-Soul*, the spiritual power is neither an anthropomorphic deity nor an external celestial monarch. It is defined as an all-encompassing, impersonal, immanent background of reality—a supreme unity that contains, animates, and surpasses every individual consciousness.
+
+> "The Supreme Critic on the errors of the past and the present, and the only prophet of that which must be, is that great nature in which we rest, as the earth lies in the soft arms of the atmosphere; that Unity, that Over-soul, within which every man's particular being is contained and made one with all other; that common heart, of which all sincere conversation is the worship, to which all right action is submission; that overpowering reality which confutes our tricks and talents, and constrains every one to pass for what he is, and to speak from his character, and not from his tongue, and which evermore tends to pass into our thought and hand, and become wisdom, and virtue, and power, and beauty."  
+> — **Ralph Waldo Emerson**, *Essays: First Series* (Boston: James Munroe and Company, 1841), Essay IX: "The Over-Soul", para. 3 [Dossier `source-285`]
+
+### How Do You Know Them?
+The Over-Soul cannot be known as an external object of empirical inspection, nor through cognitive deduction. It is known by recognizing that human faculties are themselves merely subordinate instruments of an unpossessable luminescence:
+
+> "All goes to show that the soul in man is not an organ, but animates and exercises all the organs; is not a function, like the power of memory, of calculation, of comparison, but uses these as hands and feet; is not a faculty, but a light; is not the intellect or the will, but the master of the intellect and the will; is the background of our being, in which they lie, — an immensity not possessed and that cannot be possessed. From within or from behind, a light shines through us upon things, and makes us aware that we are nothing, but the light is all."  
+> — **Ralph Waldo Emerson**, *Essays: First Series* (1841), Essay IX: "The Over-Soul", para. 6 [Dossier `source-293`]
+
+### Where Can You Learn From Them?
+Learning occurs not within formal academies, scholastic institutions, or priestly lineages, but in immediate receptivity to the internal background of consciousness. Emerson locates the pedagogical locus in solitary contemplation and authentic interpersonal exchange where private ego recedes.
+
+### What Do They Command?
+The Over-Soul commands two precise forms of life:
+1. **Sincere Conversation as Worship**: Speech stripped of rhetorical trickery, artifice, and transactional maneuvering. The spirit constrains each person "to pass for what he is, and to speak from his character, and not from his tongue."
+2. **Right Action as Submission**: Moral conduct aligned with universal necessity rather than self-serving egoism. Submission to the Over-Soul is not quietistic passivity; it is active ethical transmission into "thought and hand, and become wisdom, and virtue, and power, and beauty."
+
+---
+
+## Spirit Profile II: The Leviathan / White Whale (Herman Melville, 1851)
+
+### Who Is the Spirit?
+In Herman Melville's *Moby-Dick; or, The Whale* (1851), the spirit takes the monstrous, impenetrable form of the albino sperm whale. For Captain Ahab, the beast is not merely brute animal life, but the embodiment or surrogate of an inscrutable, governing cosmic malice. Visible reality is merely a flimsy facade disguising this adversarial intelligence:
+
+> "All visible objects, man, are but as pasteboard masks. But in each event—in the living act, the undoubted deed—there, some unknown but still reasoning thing puts forth the mouldings of its features from behind the unreasoning mask. If man will strike, strike through the mask! How can the prisoner reach outside except by thrusting through the wall? To me, the white whale is that wall, shoved near to me. Sometimes I think there’s naught beyond. But ’tis enough. He tasks me; he heaps me; I see in him outrageous strength, with an inscrutable malice sinewing it. That inscrutable thing is chiefly what I hate; and be the white whale agent, or be the white whale principal, I will wreak that hate upon him."  
+> — **Herman Melville**, *Moby-Dick; or, The Whale* (1851 US edition), Chapter 36: "The Quarter-Deck" [Dossier `source-268`]
+
+Ishmael, however, perceives an even more terrible ontological ambiguity in the creature's whiteness:
+
+> "Though in many of its aspects this visible world seems formed in love, the invisible spheres were formed in fright. But not yet have we solved the incantation of this whiteness, and learned why it appeals with such power to the soul; and more strange and far more portentous—why, as we have seen, it is at once the most meaning symbol of spiritual things, nay, the very veil of the Christian’s Deity; and yet should be as it is, the intensifying agent in things the most appalling to mankind."  
+> — **Herman Melville**, *Moby-Dick; or, The Whale* (1851 US edition), Chapter 42: "The Whiteness of The Whale" [Dossier `source-272`]
+
+### How Do You Know Them?
+Knowledge of the Leviathan is obtained through collision, physical catastrophe, and existential dread. Whereas Emerson's seeker experiences tranquil illumination, Melville's seafarer encounters an overpowering physical force that destroys boats, severs limbs, and exposes the cosmic terror underlying the natural order. Ishmael's epistemic path is aesthetic and speculative awe; Ahab's is monomaniacal, wounded rage.
+
+### Where Can You Learn From Them?
+Melville strips the encounter of domestic safety: learning occurs exclusively upon the pelagic void of the open Pacific, far beyond the reach of social institutions, legal conventions, or church dogma.
+
+### What Do They Command?
+The Leviathan itself issues no verbal commands; it remains speechless, indifferent, and inscrutable. Rather, **the demand is projected by human encounter with its dread**:
+1. **Ahab's Command**: To strike through the pasteboard mask; to refuse passive subjugation to cosmic tyranny, even if the result is total annihilation.
+2. **Ishmael's Contemplative Injunction**: To confront the dread of the invisible spheres without fleeing into comforting theological platitudes—to acknowledge that the very veil of the Deity contains the blankness of annihilation.
+
+---
+
+## Spirit Profile III: Moroni / The Voice from the Dust (Moroni / Joseph Smith, 1830)
+
+### Who Is the Spirit?
+In the closing book of *The Book of Mormon* (1830), Moroni appears as the final surviving prophet-general of a destroyed civilization, burying the golden plates in the earth and sealing the sacred record. In his final exhortation, he figures as a posthumous prophetic voice crying from the dead, addressing future readers directly from the American soil:
+
+> "And I exhort you to remember these things; for the time speedily cometh that ye shall know that I lie not, for ye shall see me at the bar of God; and the Lord God will say unto you: Did I not declare my words unto you, which were written by this man, like as one crying from the dead, yea, even as one speaking out of the dust?"  
+> — **Moroni (trans. Joseph Smith)**, *The Book of Mormon* (Palmyra, NY: E. B. Grandin, 1830), Moroni 10:27 [Dossier `source-295`]
+
+### How Do You Know Them?
+Moroni articulates a revolutionary pneumatological epistemology. The historical and spiritual validity of the physical record cannot be confirmed through conventional antiquarian scholarship or human authority. It requires an interior, pneumatological manifestation granted directly by God:
+
+> "And when ye shall receive these things, I would exhort you that ye would ask God, the Eternal Father, in the name of Christ, if these things are not true; and if ye shall ask with a sincere heart, with real intent, having faith in Christ, he will manifest the truth of it unto you, by the power of the Holy Ghost. And by the power of the Holy Ghost ye may know the truth of all things."  
+> — **Moroni (trans. Joseph Smith)**, *The Book of Mormon* (Palmyra, NY: E. B. Grandin, 1830), Moroni 10:4–5 [Dossier `source-294`]
+
+### Where Can You Learn From Them?
+Learning is located in the encounter with the physical American soil ("speaking out of the dust") and the translated material text, coupled with private, prayerful supplication in Christ's name.
+
+### What Do They Command?
+Moroni commands three explicit disciplines:
+1. **Testing through Sincere Prayer**: Seeking confirmation from God with a "sincere heart" and "real intent."
+2. **Faith in Christ and Pneumatic Openness**: Aligning one's life to receive the verifying power of the Holy Ghost.
+3. **Covenantal Remembrance**: Remembering the words written in the dust under the explicit warning of a future, personal encounter before the divine judgment seat.
+
+---
+
+## Evidence-Linked Connection Map
+
+Our close reading yields three distinct relational structures among these spiritual figures:
+
+```{dot}
+//| label: fig-connection-map
+//| fig-cap: "Typological and Documented Connections Between American Spirits"
+digraph SpiritsConnectionMap {
+  rankdir=LR;
+  node [shape=box, style="filled,rounded", fontname="Georgia", fontsize=10, fillcolor="#F8F9FA", color="#495057"];
+  edge [fontname="Helvetica", fontsize=9];
+
+  Emerson [label="The Over-Soul\n(Ralph Waldo Emerson, 1841)\nsource-285, source-293\n• Impersonal Light\n• Benign Immanence\n• Sincere Conversation", fillcolor="#E3F2FD"];
+  Melville [label="The Leviathan\n(Herman Melville, 1851)\nsource-268, source-272\n• Pasteboard Mask\n• Inscrutable Malice\n• Pelagic Cosmic Dread", fillcolor="#ECEFF1"];
+  Moroni [label="Moroni / Voice from Dust\n(Joseph Smith / Moroni, 1830)\nsource-294, source-295\n• Speaking from the Dust\n• Holy Ghost Manifestation\n• Judgment Bar Sanction", fillcolor="#FFF3E0"];
+
+  Emerson -> Melville [label="connection-364: Contradiction\n(Benign Unity vs. Inscrutable Malice)\nconnection-374: Transmission Claim (Unverified)", color="#D32F2F", penwidth=1.5];
+  Emerson -> Moroni [label="connection-369: Analogy\n(Internal Epistemology via Sincerity;\nDiffering Metaphysical Foundations)", color="#1976D2", style=dashed, penwidth=1.5];
+  Melville -> Moroni [label="Thematic Tension\n(Cosmic Silence vs. Eschatological Voice)", color="#757575", style=dotted];
+}
+```
+
+### Analysis of Registered Connections
+
+1. **Contradiction (`connection-364`)**:
+   - **Claim**: Melville's Leviathan directly contradicts the Emersonian Over-Soul regarding the moral character and intent of the cosmic reality behind visible phenomena. Emerson (`source-285`) insists upon an overpowering Unity that perpetually tends toward "wisdom, and virtue, and power, and beauty." In stark opposition, Ahab (`source-268`) encounters an "outrageous strength, with an inscrutable malice sinewing it," while Ishmael (`source-272`) meditates on whiteness as the veil of Deity concealing "invisible spheres... formed in fright."
+   - **Counterexample & Rival Reading**: Ishmael admits that "in many of its aspects this visible world seems formed in love," and Ahab's attribution of malice is framed in the novel as tragic monomania rather than Melville's definitive cosmic architecture. Furthermore, Ahab explicitly confesses: "Sometimes I think there’s naught beyond."
+
+2. **Analogy (`connection-369`)**:
+   - **Claim**: Moroni and Emerson share a structural epistemology: both reject reliance on external institutional hierarchies or empirical proofs, demanding direct interior verification conditioned on moral sincerity ("sincere heart" / "sincere conversation").
+   - **Counterexample & Rival Reading**: Moroni's test (`source-294`) authenticates an external covenant, a concrete historical record, and an imminent personal reckoning before God's judgment seat (`source-295`). Emerson's Over-Soul explicitly dissolves historical dispensations, material relics, and personal eschatology into an impersonal, universal continuum.
+
+3. **Transmission (`connection-374` — Unverified Claim)**:
+   - **Claim**: Melville's portrait of Ahab striking the pasteboard mask has frequently been read as a direct literary critique and parody of Emersonian Transcendentalism.
+   - **Critical Limitation & Epistemic Warning**: As noted in our editorial audit, while Melville read Emerson in Boston around 1849, the text of *Moby-Dick* draws equally or more decisively upon the Book of Job, Shakespearean tragedy, and maritime survival accounts (such as the 1820 sinking of the *Essex*). The textual passages themselves support comparative contradiction, but do not independently prove direct transmission.

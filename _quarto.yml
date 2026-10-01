@@ -6,9 +6,11 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Overview
-      - href: reports/index.qmd
-        text: Reports
+        text: "Issue: Discovering Spirits"
+      - href: library.qmd
+        text: "Annotated Library"
+      - href: corrections.qmd
+        text: "Corrections & Epistemic Notes"
   search: true
 format:
   html:
