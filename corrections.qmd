@@ -1,5 +1,22 @@
 ---
-title: Corrections
+title: "Corrections and Epistemic Notes"
+subtitle: "Critical Audits, Methodological Limitations, and Editorial Log"
+author: "American Cultural Mimetics"
 ---
 
-Material changes and corrected attributions will be recorded here.
+### Epistemic Distinctions and Boundaries
+
+In accordance with camp doctrine and editorial standards, all claims in this issue observe the following boundaries:
+
+1. **Source Assertions vs. Historical Fact**:
+   - The claims made by Ralph Waldo Emerson regarding the "Over-Soul" are philosophical assertions of Transcendentalist speculative idealism, not empirical psychological or metaphysical facts.
+   - The claims voiced by Captain Ahab and Ishmael in *Moby-Dick* are dramatic utterances within a work of literary fiction, not an established Melvillean theological dogma or historical testimony.
+   - The claims voiced by Moroni in *The Book of Mormon* are scriptural declarations within the Latter-day Saint religious tradition, not independently verified secular historical occurrences or archaeological events.
+
+2. **Transmission Claim Correction (`connection-374`)**:
+   - *Original Formulation*: Melville's Leviathan was previously suggested to be a direct documented critique derived strictly from reading Emerson's *The Over-Soul*.
+   - *Correction and Audit*: The retained primary passages demonstrate sharp thematic and metaphysical contradiction (`connection-364`), but do not by themselves establish direct causal transmission. Melville drew upon numerous independent influences, including the Book of Job, Shakespearean drama, and maritime accounts (such as Owen Chase's narrative of the *Essex*). Consequently, the direct transmission hypothesis remains **unverified** and is treated as a literary-historical hypothesis rather than an established fact.
+
+3. **Textual Witnesses and Editions**:
+   - For *The Book of Mormon*, the online scriptural text provided by the Church was consulted; no original manuscript, printer's manuscript, or 1830 Grandin physical copy was examined first-hand.
+   - For Emerson's *The Over-Soul* and Melville's *Moby-Dick*, digitally transcribed public domain editions (Wikisource / Project Gutenberg) were used, referenced against 1841 and 1851 first-edition paragraph and chapter locators.
